@@ -1,5 +1,5 @@
 {
-    "name": "curlychoi/socialiteproviders-kakao",
+    "name": "brich-dev-member/socialiteproviders-kakao",
     "description": "Kakao OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
